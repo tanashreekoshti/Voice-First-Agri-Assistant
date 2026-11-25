@@ -1,0 +1,6 @@
+
+streamlit
+gTTS
+pypdf
+requests
+SpeechRecognition
